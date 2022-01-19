@@ -1,0 +1,16 @@
+1;PC;Ordinateurs fixes;10;2000
+2;Laptop;ordinateurs portables et tablettes;10;1500
+3;serveur; serveurs multi-processurs;2;5000
+4;imprimante;imprimantes Lazer;5;500
+5;Routeur;Routeurs SISCO;3;200
+6;firewall;pare-feu (firewall) SISCO;2;400
+7;commutateur;commutateurs réseau (switch);5;150
+8;point d’accès;point d’accès sans fil;4;120
+9;répéteur;répéteur et point d'acces;4;80
+10;clavier;clavier  usb;20;30
+11;souris;souris sans fil;20;25
+12;ecran;ecran tactile de grand format;10;150
+13;replicateur;réplicateur de port USB;5;300
+14;disque dur;disque dur externe;2;250
+15;valise; valise de transport pour votre portable;10;300
+16;videoprojecteur;videoprojecteur pour votre salle de conference;6;5000
